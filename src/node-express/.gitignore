@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/src/logs
+
+.env.production
+.env.development
+

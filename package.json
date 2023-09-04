@@ -1,0 +1,28 @@
+{
+  "name": "create-tse",
+  "version": "1.0.42",
+  "description": "Typescript Node + Express Starter",
+  "main": "index.js",
+  "bin": {
+    "create-tse": "./index.js"
+  },
+  "keywords": [
+    "typescript",
+    "express",
+    "node",
+    "starter"
+  ],
+  "author": "Raymond Tju <raymondtju.dev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/raymondtju/create-tse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymondtju/create-tse.git"
+  },
+  "homepage": "https://github.com/raymondtju/create-tse#readme"
+}
